@@ -1,4 +1,4 @@
-#this project is not under copyright.
+# this project is not under copyright.
 I still owe all the rights on this project, so that you can not accuse me of stealing your rights.
 
 You MAY use this project as much as you want, and with the copyright you want to attach to it.
